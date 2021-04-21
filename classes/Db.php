@@ -5,9 +5,9 @@ class Db
 
     public static $directory;
     public static $host="localhost";
-    public static $username="zumassim_test1";
-    public static $password="atarum75!";
-    public static $database="zumassim_test1";
+    public static $username="test";
+    public static $password="test";
+    public static $database="test";
     public static $site_salt="myminicms";
     
     public static $default_theme="Portfolio_theme";
